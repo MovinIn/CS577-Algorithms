@@ -7,3 +7,5 @@
 $$arbitrary \neq random$$. 
 
 ## Basics of Algorithm Analysis
+
+<img width="1385" height="973" alt="image" src="https://github.com/user-attachments/assets/7ee792e4-696d-4cc6-a653-0f15c7535141" />
