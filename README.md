@@ -13,7 +13,12 @@ Define what an inversion is. Prove that we can convert $$S^{\*}$$ to a solution 
 
 # Divide and Conquer
 Usually divide input set into half. Figure out how to do merges in desired time complexity $$O(\log(n)), O(n)$$.   
-Understand Recursion Trees.   
+Understand Recursion Trees. A helpful geometric series formula: 
+
+$$
+\sum_{i=1}^{n} r^i = r \frac{1-r^n}{1-r}
+$$
+
 Usually correctness flows from strong induction (assuming that the algorithm is correct for k/2). Then all we have to do is prove correctness of our merge.   
 
 # Dynamic Programming
