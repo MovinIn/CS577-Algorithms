@@ -21,6 +21,7 @@ Usually correctness flows from strong induction (assuming that the algorithm is 
 2. Design the bellman equation based off of recursive solution
 3. Prove correctness of the bellman, that it will always produce a correct solution, usually through induction (as element $$i$$ will often times be found through element $$i-1$$).
 4. Think backwards! (usually)
+5. Don't be afraid of a[-1]. We can just say a[-1] = a[0] = c. 
 
 # Network Flow
 1. Max-flow = min cut.
